@@ -1,5 +1,7 @@
 
-#include<stdio.h>                                                                            
+#include<stdio.h>        
+#include<stdlib.h>
+#include<string.h>
 void swappointers(int *p,int *q);
 void searchandcountch(char *str,char ch,int *arr);
 void uppercase(char *p);
