@@ -1,6 +1,6 @@
 C is the divine language for programmers and essential to build solid coding foundation so I started my tech journey with it.
 
-Here I have shared my solutions mainly for the most dreaded c topic pointers,structure and dma and some miscellenous qs I solved while revising it.
+Here I have shared my solutions mainly for the most dreaded c topics namely pointers,structure and dma and some miscellenous qs I solved while revising it.
 
 Learning C was a difficult process but as they say nothing worthwhile comes easy in life.
 
